@@ -4,10 +4,10 @@
 // Company: 
 // Engineer:
 //
-// Create Date:   00:08:48 11/13/2021
+
 // Design Name:   PWM_Gen
-// Module Name:   C:/windows/system32/ShiftReg2/PWM_Test.v
-// Project Name:  ShiftReg2
+
+
 // Target Device:  
 // Tool versions:  
 // Description: 
